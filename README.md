@@ -1,4 +1,4 @@
-# Pause café
+# Pause café ☕
 ### Description
 Time for a coffee break. Keep up to date with the latest tech news with this app.
 ### Project
